@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 
+
 @SpringBootApplication
 @RestController
 public class DemoApplication {
@@ -19,7 +20,9 @@ public class DemoApplication {
 	@RequestMapping("/")
 	String sayHello() {
 		return "my Database Testing";
+    
 	}
 }
 
+SimpleTesting.run;
 
