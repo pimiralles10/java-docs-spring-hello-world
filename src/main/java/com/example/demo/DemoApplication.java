@@ -23,6 +23,3 @@ public class DemoApplication {
     
 	}
 }
-
-SimpleTesting.run;
-
