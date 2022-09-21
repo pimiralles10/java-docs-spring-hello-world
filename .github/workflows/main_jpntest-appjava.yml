@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'jpntest-appjava'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10A20666C02D4F57A4B12D6A907CF77F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B694F57F083C48FEBE81BB0A4A62A459 }}
           package: '*.jar'
